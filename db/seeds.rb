@@ -424,7 +424,7 @@ stateArray =
     capital: 'Cheyenne',
     x: 0,
     y: 0,
-    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Barns_grand_tetons.jpg/1200px-Barns_grand_tetons.jpg
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Barns_grand_tetons.jpg/1200px-Barns_grand_tetons.jpg'
 }
 ]   
 
