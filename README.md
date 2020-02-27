@@ -23,3 +23,6 @@ Things you may want to cover:
 
 * ...
 # us-states-api
+
+
+This project will be better than the other group's projects in this cohort 
