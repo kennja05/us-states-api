@@ -436,6 +436,7 @@ guessed_states =
     {game_id: game1.id, state_id: 14},
     {game_id: game1.id, state_id: 25},
     {game_id: game1.id, state_id: 37},
+    
     {game_id: game2.id, state_id: 13},
     {game_id: game2.id, state_id: 15},
     {game_id: game2.id, state_id: 27},
