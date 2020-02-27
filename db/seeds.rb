@@ -15,10 +15,13 @@ ActiveRecord::Base.connection.reset_pk_sequence!('games')
 GuessedState.destroy_all
 ActiveRecord::Base.connection.reset_pk_sequence!('guessed_states')
 
-alona = User.create('alona', '123', 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQydDmtV3AEirpUScO6-IkSbwsojfzLwr3B0COTOS4k9rOAo-2V')
-jake = User.create('jake', '123', 'https://cosmos-images2.imgix.net/file/spina/photo/20565/191010_nature.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835')
+alona = User.create(name: 'alona', password: '123', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQydDmtV3AEirpUScO6-IkSbwsojfzLwr3B0COTOS4k9rOAo-2V')
+jake = User.create(name: 'jake', password: '123', image: 'https://cosmos-images2.imgix.net/file/spina/photo/20565/191010_nature.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=835')
 
-game1 = Game.create
+game1 = Game.create(user_id: alona.id, time: 120, moves: 5)
+game2 = Game.create(user_id: jake.id, time: 60, moves: 3)
+
+
 
 stateArray = 
 
@@ -426,3 +429,18 @@ stateArray =
 ]   
 
 State.create(stateArray)
+
+guessed_states = 
+[
+    {game_id: game1.id, state_id: 12},
+    {game_id: game1.id, state_id: 14},
+    {game_id: game1.id, state_id: 25},
+    {game_id: game1.id, state_id: 37},
+    {game_id: game2.id, state_id: 13},
+    {game_id: game2.id, state_id: 15},
+    {game_id: game2.id, state_id: 27},
+    {game_id: game2.id, state_id: 39},
+
+]
+
+GuessedState.create(guessed_states)
