@@ -1,0 +1,2 @@
+class GuessedStatesController < ApplicationController
+end
