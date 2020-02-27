@@ -96,7 +96,7 @@ stateArray =
     capital: 'Jacksonville',
     x: 0,
     y: 0,
-    image: ''
+    image: 'https://lp-cms-production.imgix.net/2019-06/6d64126b1315ab23054b8007169793df-the-everglades.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4'
 },
 {
     name: 'Georgia',
@@ -104,7 +104,7 @@ stateArray =
     capital: 'Atlanta',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.exploregeorgia.org/sites/default/files/styles/listing_slideshow/public/listing_images/profile/3056/rock-city.jpg?itok=Pc7SVkij'
 },
 {
     name: 'Hawaii',
@@ -112,7 +112,7 @@ stateArray =
     capital: 'Honolulu',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.smartertravel.com/uploads/2018/03/diamond-head-hero.jpg'
 },
 {
     name: 'Idaho',
@@ -120,7 +120,7 @@ stateArray =
     capital: 'Boise',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://images.wsj.net/im-6993?width=620&size=1.5'
 },
 {
     name: 'Illinois',
@@ -128,7 +128,7 @@ stateArray =
     capital: 'Chicago',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://ihg.scene7.com/is/image/ihg/intercontinental-chicago-5377570366-2x1?fit=fit,1&wid=2400&hei=1200&qlt=85,0&resMode=sharp2&op_usm=1.75,0.9,2,0'
 },
 {
     name: 'Indiana',
@@ -136,7 +136,7 @@ stateArray =
     capital: 'Indianapolis',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://cdn.theathletic.com/app/uploads/2019/11/04121356/Indy-500-start-1-1024x683.jpg'
 },
 {
     name: 'Iowa',
@@ -144,7 +144,7 @@ stateArray =
     capital: 'Des Moines',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.canoethere.com/wp-content/uploads/2016/07/maquoketa-caves-state-park-dancehall-cave-0103.jpg'
 },
 {
     name: 'Kansas',
@@ -152,7 +152,7 @@ stateArray =
     capital: 'Topeka',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.uscgranite.com/wp-content/uploads/2016/05/KansasCity-1024x596.jpg'
 },
 {
     name: 'Kentucky',
@@ -160,7 +160,7 @@ stateArray =
     capital: 'Frankfort',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://s3.amazonaws.com/ae-lane-report/wp-content/uploads/2019/04/23104308/derby-airbnb-e1556030672522.jpg'
 },
 {
     name: 'Louisiana',
@@ -168,7 +168,7 @@ stateArray =
     capital: 'Baton Rouge',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.outfrontmedia.com/-/media/images/ofm/markets/new-orleans/new-orleans-hero.ashx'
 },
 {
     name: 'Maine',
@@ -176,7 +176,7 @@ stateArray =
     capital: 'Augusta',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://s27363.pcdn.co/wp-content/uploads/2019/11/Acadia-National-Park-Guide-1129x752.jpg.optimal.jpg'
 },
 {
     name: 'Maryland',
@@ -184,7 +184,7 @@ stateArray =
     capital: 'Annapolis',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://aqua.org/-/media/Images/our-commitment-to-our-community/aquarium_panoramic.ashx?la=en&hash=9209B879C7D1E99892B89A5F81C1E80D415878A8'
 },
 {
     name: 'Massachusetts',
@@ -192,7 +192,7 @@ stateArray =
     capital: 'Boston',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://thenypost.files.wordpress.com/2019/12/obama-marthas-vineyard-01.jpg?quality=80&strip=all&strip=all'
 },
 {
     name: 'Michigan',
@@ -200,7 +200,7 @@ stateArray =
     capital: 'Lansing',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.travel-mi.com/images/Isle-Royal2.jpg'
 },
 {
     name: 'Minnesota',
@@ -208,7 +208,7 @@ stateArray =
     capital: 'St. Paul',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://2qwuxr33v1ei2x0kjw27ngl7-wpengine.netdna-ssl.com/wp-content/uploads/MOA-Entrance-opt.jpg'
 },
 {
     name: 'Mississippi',
@@ -216,7 +216,7 @@ stateArray =
     capital: 'Jackson',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://assets.atlasobscura.com/media/W1siZiIsInVwbG9hZHMvcGxhY2VfaW1hZ2VzL3F4NmZmZGR4dDczNTlwdGljNTk3M2NjNzUxZTNlMzMyYjJfSU1HXzU1NzguSlBHIl0sWyJwIiwidGh1bWIiLCJ4MzkwPiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MSAtYXV0by1vcmllbnQiXV0/IMG_5578.JPG'
 },
 {
     name: 'Missouri',
@@ -224,7 +224,7 @@ stateArray =
     capital: 'Jefferson City',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/St_Louis_night_expblend_cropped.jpg/1200px-St_Louis_night_expblend_cropped.jpg'
 },
 {
     name: 'Montana',
@@ -232,7 +232,7 @@ stateArray =
     capital: 'Helena',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://static.rootsrated.com/image/upload/s--G0QLeuLf--/t_rr_large_traditional/kntxugnawdhqcpgkfzu5.jpg'
 },
 {
     name: 'Nebraska',
@@ -240,7 +240,7 @@ stateArray =
     capital: 'Lincoln',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://scenicusa.net/images/OC08ScottsBluffPD.jpg'
 },
 {
     name: 'Nevada',
@@ -248,7 +248,7 @@ stateArray =
     capital: 'Carson City',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.fodors.com/wp-content/uploads/2019/10/ThingstoKnowLasVegas__HERO_shutterstock_708501844.jpg'
 },
 {
     name: 'New Hampshire',
@@ -256,7 +256,7 @@ stateArray =
     capital: 'Concord',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.omnihotels.com/-/media/images/hotels/mtwash/digex/hero/mtwash-2880x1870.jpg?h=1870&w=2880&la=en&hash=185F0056801BC494C0ADFC2CF896730A9AF8D27C'
 },
 {
     name: 'New Jersey',
@@ -264,7 +264,7 @@ stateArray =
     capital: 'Trenton',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://images-na.ssl-images-amazon.com/images/G/01/digital/video/hero/TVSeries/JerseyShore_580400-JERSEYSHORE._V392939154_SX1080_.jpg'
 },
 {
     name: 'New Mexico',
@@ -272,7 +272,7 @@ stateArray =
     capital: 'Santa Fe',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.national-park.com/wp-content/uploads/2016/04/Welcome-to-Carlsbad-Caverns-National-Park.jpg'
 },
 {
     name: 'New York',
@@ -280,7 +280,7 @@ stateArray =
     capital: 'Albany',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://blog-www.pods.com/wp-content/uploads/2019/04/MG_1_1_New_York_City-1.jpg'
 },
 {
     name: 'North Carolina',
@@ -288,7 +288,7 @@ stateArray =
     capital: 'Raleigh',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://media-cdn.tripadvisor.com/media/photo-m/1280/18/ca/e8/61/the-outer-banks-stretches.jpg'
 },
 {
     name: 'North Dakota',
@@ -296,7 +296,7 @@ stateArray =
     capital: 'Bismarck',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://static.onecms.io/wp-content/uploads/sites/28/2017/06/fishermans-dream-ENCHNTDHWY0517.jpg'
 },
 {
     name: 'Ohio',
@@ -304,7 +304,7 @@ stateArray =
     capital: 'Columbus',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.tripsavvy.com/thmb/K9ji6vXllXn6b8a205OBRpFw6ps=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/brandywine-falls-in-cuyahoga-valley-national-park-e76e1780ef0a406fb770c14097912fed.jpg'
 },
 {
     name: 'Oklahoma',
@@ -312,7 +312,7 @@ stateArray =
     capital: 'Oklahoma City',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://media1.fdncms.com/okgazette/imager/u/original/2971900/botanical-garden.jpg'
 },
 {
     name: 'Oregon',
@@ -320,7 +320,7 @@ stateArray =
     capital: 'Salem',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.nps.gov/crla/planyourvisit/images/crater-lake-in-summer-4a-smaller_2.jpg?maxwidth=650&autorotate=false'
 },
 {
     name: 'Pennsylvania',
@@ -328,7 +328,7 @@ stateArray =
     capital: 'Harrisburg',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.bestwestern.com/content/dam/best-western/hero-image/destinations/united-states/pennsylvania/pittsburgh-pa-600x400.jpg'
 },
 {
     name: 'Rhode Island',
@@ -336,7 +336,7 @@ stateArray =
     capital: 'Providence',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://cdn.britannica.com/36/145036-050-D87AB7B3/Providence-RI.jpg'
 },
 {
     name: 'South Carolina',
@@ -344,7 +344,7 @@ stateArray =
     capital: 'Columbia',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://specials-images.forbesimg.com/imageserve/805157896/960x0.jpg?fit=scale'
 },
 {
     name: 'South Dakota',
@@ -352,7 +352,7 @@ stateArray =
     capital: 'Pierre',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://www.nps.gov/moru/learn/photosmultimedia/images/MORU-high-res-1.jpg?maxwidth=1200&maxheight=1200&autorotate=false'
 },
 {
     name: 'Tennessee',
@@ -360,7 +360,7 @@ stateArray =
     capital: 'Nashville',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://livability.com/sites/default/files/Cumberland-River-Nashville-TN.jpg'
 },
 {
     name: 'Texas',
@@ -368,7 +368,7 @@ stateArray =
     capital: 'Austin',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://cdn.britannica.com/17/189617-050-5DEB44E0/Alamo-San-Antonio-Texas.jpg'
 },
 {
     name: 'Utah',
@@ -376,7 +376,7 @@ stateArray =
     capital: 'Salt Lake City',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://cdn.britannica.com/98/197598-050-28DA45BC/Stansbury-Island-Utah-Great-Salt-Lake-foreground.jpg'
 },
 {
     name: 'Vermont',
@@ -384,7 +384,7 @@ stateArray =
     capital: 'Montpelier',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://cms.killington.com/sites/killington/files/styles/medium/public/2017-11/chandlerburgess-6386_2100x1400_300_RGB.jpg?itok=HEJzE6Pk'
 },
 {
     name: 'Virginia',
@@ -392,7 +392,7 @@ stateArray =
     capital: 'Richmond',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://mtv-main-assets.mountvernon.org/files/resources/mansion-oct-2013.jpg'
 },
 {
     name: 'Washington',
@@ -400,7 +400,7 @@ stateArray =
     capital: 'Olympia',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/c/18/c18c7926-1049-11e9-9dd5-e7559721663f/5c2f9dc9b6c37.image.jpg?resize=1200%2C900'
 },
 {
     name: 'West Virginia',
@@ -408,7 +408,7 @@ stateArray =
     capital: 'Charleston',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://wvstateparks.com/wp-content/uploads/2017/04/DSC_3003-e1493747486417.jpg'
 },
 {
     name: 'Wisconsin',
@@ -416,7 +416,7 @@ stateArray =
     capital: 'Madison',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://emke.uwm.edu/wp-content/uploads/2018/02/40190r.jpg'
 },
 {
     name: 'Wyoming',
@@ -424,7 +424,7 @@ stateArray =
     capital: 'Cheyenne',
     x: 0,
     y: 0,
-    image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Barns_grand_tetons.jpg/1200px-Barns_grand_tetons.jpg
 }
 ]   
 
