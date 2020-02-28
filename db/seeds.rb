@@ -30,400 +30,400 @@ stateArray =
     name: 'Alabama', 
     nickname: 'The Yellowhammer State',
     capital: 'Montgomery',
-    x: 0,
-    y: 0,
+    x: 67,
+    y: 67,
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ4bZXFbwmuqvKZufE8Gj8_gzX2WgiXLFhHXB_cKgq7QB-wdNYX'
 },
 {
     name: 'Alaska',
     nickname: 'The Last Frontier',
     capital: 'Juneau',
-    x: 0,
-    y: 0,
+    x: 4,
+    y: 76,
     image: 'https://www.tripsavvy.com/thmb/6fHSy0KWVuP124P2rJ5A4ZKNwlI=/2124x1414/filters:fill(auto,1)/GlacierBayNationalParkDaveBartuff-Getty-571138833df78c3fa2a43ea4.jpg'
 },
 {
     name: 'Arizona',
     nickname: 'The Grand Canyon State',
     capital: 'Phoenix',
-    x: 0,
-    y: 0,
+    x: 17,
+    y: 60,
     image: 'https://www.tripsavvy.com/thmb/sVcUCGnMX9RakuMr0j9aux-w2mo=/3776x2832/smart/filters:no_upscale()/grand-canyon--north-rim----cape-royal-574877869-592436375f9b58f4c0803ca8.jpg'
 },
 {
     name: 'Arkansas',
     nickname: 'The Natural State',
     capital: 'Little Rock',
-    x: 0,
-    y: 0,
+    x: 55.5,
+    y: 61,
     image: 'https://images.squarespace-cdn.com/content/v1/564d14dfe4b0290681184a82/1455073275356-ZNSWM9D9K3ZF51F25NYJ/ke17ZwdGBToddI8pDm48kKAwwdAfKsTlKsCcElEApLR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UegTYNQkRo-Jk4EWsyBNhwKrKLo5CceA1-Tdpfgyxoog5ck0MD3_q0rY3jFJjjoLbQ/Hot+Springs+National+Park+-+006.jpg'
 },
 {
     name: 'California',
     nickname: 'The Golden State',
     capital: 'Sacramento',
-    x: 0,
-    y: 0,
+    x: 2.4,
+    y: 43,
     image: 'https://upload.wikimedia.org/wikipedia/commons/0/0c/GoldenGateBridge-001.jpg'
 },
 {
     name: 'Colorado',
     nickname: 'The Centennial State',
     capital: 'Denver',
-    x: 0,
-    y: 0,
+    x: 30,
+    y: 44,
     image: 'https://imagesofrmnp.com/images/xl/The-Oasis.jpg'
 },
 {
     name: 'Connnecticut',
     nickname: 'The Constitution State',
     capital: 'Hartford',
-    x: 0,
-    y: 0,
+    x: 92,
+    y: 31,
     image: 'https://static1.mansionglobal.com/production/media/article-images/19e0135b6fd84be666eb1c6493b46898/large_B2066E88-2A9B-4301-8D8B-C31211ED8479_1800x1200.jpg'
 },
 {
     name: 'Delaware',
     nickname: 'The First State',
     capital: 'Dover',
-    x: 0,
-    y: 0,
+    x: 92,
+    y: 31,
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQblNC1L1UoSBRpTZCXqIsA723JoisN0xrND-3IZ6fWdE0kZCVZ'
 },
 {
     name: 'Florida',
     nickname: 'The Sunshine State',
     capital: 'Jacksonville',
-    x: 0,
-    y: 0,
+    x: 78,
+    y: 80,
     image: ''
 },
 {
     name: 'Georgia',
     nickname: 'The Peach State',
     capital: 'Atlanta',
-    x: 0,
-    y: 0,
+    x: 74,
+    y: 66,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Hawaii',
     nickname: 'The Aloha State',
     capital: 'Honolulu',
-    x: 0,
-    y: 0,
+    x: 24,
+    y: 86,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Idaho',
     nickname: 'The Gem State',
     capital: 'Boise',
-    x: 0,
-    y: 0,
+    x: 16,
+    y: 25,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Illinois',
     nickname: 'The Prairie State',
     capital: 'Chicago',
-    x: 0,
-    y: 0,
+    x: 60,
+    y: 40,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Indiana',
     nickname: 'The Crossroads of America',
     capital: 'Indianapolis',
-    x: 0,
-    y: 0,
+    x: 66,
+    y: 37,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Iowa',
     nickname: 'The Hawkeye State',
     capital: 'Des Moines',
-    x: 0,
-    y: 0,
+    x: 52.5,
+    y: 33,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Kansas',
     nickname: 'The Sunflower State',
     capital: 'Topeka',
-    x: 0,
-    y: 0,
+    x: 44,
+    y: 48,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Kentucky',
     nickname: 'Bluegrass State',
     capital: 'Frankfort',
-    x: 0,
-    y: 0,
+    x: 68.4,
+    y: 47,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Louisiana',
     nickname: 'The Pelican State',
     capital: 'Baton Rouge',
-    x: 0,
-    y: 0,
+    x: 56,
+    y: 76,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Maine',
     nickname: 'Pine Tree State',
     capital: 'Augusta',
-    x: 0,
-    y: 0,
+    x: 92,
+    y: 30,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Maryland',
     nickname: 'The Old Line State',
     capital: 'Annapolis',
-    x: 0,
-    y: 0,
+    x: 92,
+    y: 41,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Massachusetts',
     nickname: 'The Bay State',
     capital: 'Boston',
-    x: 0,
-    y: 0,
+    x: 93,
+    y: 29,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Michigan',
     nickname: 'The Great Lakes State',
     capital: 'Lansing',
-    x: 0,
-    y: 0,
+    x: 68,
+    y: 25,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Minnesota',
     nickname: 'North Star State',
     capital: 'St. Paul',
-    x: 0,
-    y: 0,
+    x: 50,
+    y: 16,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Mississippi',
     nickname: 'The Magnolia State',
     capital: 'Jackson',
-    x: 0,
-    y: 0,
+    x: 61,
+    y: 68,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Missouri',
     nickname: 'The Show Me State',
     capital: 'Jefferson City',
-    x: 0,
-    y: 0,
+    x: 55,
+    y: 47.5,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Montana',
     nickname: 'The Treasure State',
     capital: 'Helena',
-    x: 0,
-    y: 0,
+    x: 25,
+    y: 11,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Nebraska',
     nickname: 'The Cornhusker State',
     capital: 'Lincoln',
-    x: 0,
-    y: 0,
+    x: 41,
+    y: 36,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Nevada',
     nickname: 'The Silver State',
     capital: 'Carson City',
-    x: 0,
-    y: 0,
+    x: 9,
+    y: 37,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'New Hampshire',
     nickname: 'The Granite State',
     capital: 'Concord',
-    x: 0,
-    y: 0,
+    x: 90,
+    y: 15.5,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'New Jersey',
     nickname: 'The Garden State',
     capital: 'Trenton',
-    x: 0,
-    y: 0,
+    x: 86.7,
+    y: 30.4,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'New Mexico',
     nickname: 'The Land of Enchantment',
     capital: 'Santa Fe',
-    x: 0,
-    y: 0,
+    x: 29,
+    y: 63,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'New York',
     nickname: 'The Empire State',
     capital: 'Albany',
-    x: 0,
-    y: 0,
+    x: 84,
+    y: 22,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'North Carolina',
     nickname: 'The Tarheel State',
     capital: 'Raleigh',
-    x: 0,
-    y: 0,
+    x: 81,
+    y: 53,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'North Dakota',
     nickname: 'The Peace Garden State',
     capital: 'Bismarck',
-    x: 0,
-    y: 0,
+    x: 40.5,
+    y: 12,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Ohio',
     nickname: 'The Buckeye State',
     capital: 'Columbus',
-    x: 0,
-    y: 0,
+    x: 72.6,
+    y: 36.5,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Oklahoma',
     nickname: 'The Sooner State',
     capital: 'Oklahoma City',
-    x: 0,
-    y: 0,
+    x: 46,
+    y: 60,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Oregon',
     nickname: 'The Beaver State',
     capital: 'Salem',
-    x: 0,
-    y: 0,
+    x: 5.7,
+    y: 18.5,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Pennsylvania',
     nickname: 'The Keystone State',
     capital: 'Harrisburg',
-    x: 0,
-    y: 0,
+    x: 81,
+    y: 31,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Rhode Island',
     nickname: 'The Ocean State',
     capital: 'Providence',
-    x: 0,
-    y: 0,
+    x: 92,
+    y: 29,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'South Carolina',
     nickname: 'The Palmetto State',
     capital: 'Columbia',
-    x: 0,
-    y: 0,
+    x: 78,
+    y: 59.4,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'South Dakota',
     nickname: 'The Mount Rushmore State',
     capital: 'Pierre',
-    x: 0,
-    y: 0,
+    x: 40.6,
+    y: 24.3,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Tennessee',
     nickname: 'The Volunteer State',
     capital: 'Nashville',
-    x: 0,
-    y: 0,
+    x: 67,
+    y: 55,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Texas',
     nickname: 'The Lone Star State',
     capital: 'Austin',
-    x: 0,
-    y: 0,
+    x: 42,
+    y: 76,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Utah',
     nickname: 'The Beehive State',
     capital: 'Salt Lake City',
-    x: 0,
-    y: 0,
+    x: 19,
+    y: 42,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Vermont',
     nickname: 'The Green Mountain State',
     capital: 'Montpelier',
-    x: 0,
-    y: 0,
+    x: 87.7,
+    y: 12.5,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Virginia',
     nickname: 'The Old Dominion State',
     capital: 'Richmond',
-    x: 0,
-    y: 0,
+    x: 81,
+    y: 43,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Washington',
     nickname: 'The Evergreen State',
     capital: 'Olympia',
-    x: 0,
-    y: 0,
+    x: 9,
+    y: 6,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'West Virginia',
     nickname: 'The Mountain State',
     capital: 'Charleston',
-    x: 0,
-    y: 0,
+    x: 76,
+    y: 41,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Wisconsin',
     nickname: 'The Badger State',
     capital: 'Madison',
-    x: 0,
-    y: 0,
+    x: 58,
+    y: 22,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 },
 {
     name: 'Wyoming',
     nickname: 'The Equality State',
     capital: 'Cheyenne',
-    x: 0,
-    y: 0,
+    x: 28,
+    y: 28,
     image: 'https://www.nps.gov/articles/images/ACAD_1.jpg?maxwidth=1200&autorotate=false'
 }
 ]   
@@ -436,7 +436,7 @@ guessed_states =
     {game_id: game1.id, state_id: 14},
     {game_id: game1.id, state_id: 25},
     {game_id: game1.id, state_id: 37},
-    
+
     {game_id: game2.id, state_id: 13},
     {game_id: game2.id, state_id: 15},
     {game_id: game2.id, state_id: 27},
