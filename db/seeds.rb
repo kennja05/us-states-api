@@ -178,8 +178,8 @@ stateArray =
     name: 'Maine',
     nickname: 'Pine Tree State',
     capital: 'Augusta',
-    x: 92,
-    y: 30,
+    x: 93,
+    y: 7,
     image: 'https://s27363.pcdn.co/wp-content/uploads/2019/11/Acadia-National-Park-Guide-1129x752.jpg.optimal.jpg'
 },
 {
