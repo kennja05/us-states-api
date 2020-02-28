@@ -75,7 +75,7 @@ stateArray =
     image: 'https://imagesofrmnp.com/images/xl/The-Oasis.jpg'
 },
 {
-    name: 'Connnecticut',
+    name: 'Connecticut',
     nickname: 'The Constitution State',
     capital: 'Hartford',
     x: 92,
@@ -86,8 +86,8 @@ stateArray =
     name: 'Delaware',
     nickname: 'The First State',
     capital: 'Dover',
-    x: 92,
-    y: 31,
+    x: 91,
+    y: 38,
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQblNC1L1UoSBRpTZCXqIsA723JoisN0xrND-3IZ6fWdE0kZCVZ'
 },
 {
@@ -266,8 +266,8 @@ stateArray =
     name: 'New Jersey',
     nickname: 'The Garden State',
     capital: 'Trenton',
-    x: 86.7,
-    y: 30.4,
+    x: 91,
+    y: 34,
     image: 'https://images-na.ssl-images-amazon.com/images/G/01/digital/video/hero/TVSeries/JerseyShore_580400-JERSEYSHORE._V392939154_SX1080_.jpg'
 },
 {
