@@ -7,7 +7,8 @@ Rails.application.routes.draw do
 
   get '/states', to: 'states#index', as: 'states'
   
-
+  get '/users', to: 'users#login'
+  post '/users', to: 'users#create'
   get '/games', to: 'games#index', as: 'games'
 
   post '/games', to: 'games#create'
