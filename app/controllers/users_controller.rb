@@ -11,7 +11,7 @@ class UsersController < ApplicationController
         if user.save 
         render json: user
         else 
-            # byebug
+            #not currently being used as the validation is ocurring on the front end
             render json: user.errors.full_messages
         end 
     end
